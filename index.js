@@ -1,6 +1,6 @@
 let i = 0;
 let txt = "Hello";
-let txt2 = ", I'm a Full-Stack Developer";
+let txt2 = ", I'm a Front-End Developer";
 let speed = 60;
 let part = 1; // Part 1 for txt, Part 2 for txt2
 
