@@ -1,0 +1,180 @@
+/* Set default styles for the body */
+h1 {
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Arial', sans-serif;
+    font-size: 4em;
+    color: #333;
+}
+
+img.alanpic{
+    width: 400px;
+    border-radius: 200px;
+}
+
+.github-icon {
+    position: relative;
+    top: 40px; /* Adjust the value as needed */
+  }
+
+
+img.laptop{
+    max-width: 350px;
+    border-radius: 20px;
+    float:left;
+    margin-right: 75px;
+    margin-bottom:25px
+   
+
+}
+
+.textbox{
+    margin-right:75px;
+}
+
+.textbox p {
+    color: #767676;
+    font-family: Mulish, sans-serif;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 1.5;
+}
+
+.textbox h3{
+    color: #3b70e4;
+}
+
+/*
+p.desc{
+    margin-right: 50vh;
+}
+*/
+p {
+    font-family: 'Mulish', 'sans-serif';
+    font-size: 20px;
+}
+
+/*
+ overflow: hidden;
+    background-color: #ffffff;
+*/
+.nav {
+    box-shadow: 0 1px 10px 0 rgba(0,0,0,.2);
+    overflow: hidden;
+    background-color: #ffffff;
+    position: fixed;
+    top: 0;
+    width: 100%;
+
+  }
+
+  .wrapper{
+    margin: 200px auto;
+    width: 70%;
+    
+  }
+
+.nav a {
+    font-weight: bold;
+    font-family: 'Arial', sans-serif;
+    float: right;
+    display: block;
+    color: #000000;
+    text-align: center;
+    padding: 20px 26px;
+    text-decoration: none;
+    font-size: 18px;
+  }
+
+/* Style the container */
+.container {
+    padding-top: 100px; /* Add padding to move content down */
+    background-color: #faf7f7;
+    height: 100vh;
+    text-align: center;
+}
+
+
+.abt{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    height: 50vh;
+}
+
+.proj{
+    /* Add padding to move content down */
+    background-color: #faf7f7;
+    height: 40vh;
+    text-align: center;
+}
+
+.proj h2{
+    padding-top: 15vh;
+}
+
+.contact{
+    background-color: #fff;
+    padding: 11rem 0;
+   
+}
+
+
+
+/* Style the heading */
+body {
+    font-family: Poppins, sans-serif;
+    background-color: #fff;
+    position: relative;
+}
+
+
+
+.contact__title p {
+    color: #147efb;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-family: Poppins, sans-serif;
+
+
+}
+
+.contact__title h3 {
+    color: #2d2e32;
+    font-size: 25px;
+}
+
+.contact__title h4 {
+    color: #2d2e32;
+    font-size: 20px;
+}
+
+
+
+footer {
+    background-color: #2d2e32;
+    padding: 5rem 0;
+    padding-top: 5rem;
+    padding-right: 0px;
+    padding-bottom: 5rem;
+    padding-left: 0px;
+    width: 100%;
+}
+
+footer h3 {
+    color: #fff;
+    font-size: 17px;
+}
+
+.bin{
+    margin: 0 auto;
+    max-width: 107rem;
+    padding: 0 4rem;
+    width:70%;
+}
+
+
